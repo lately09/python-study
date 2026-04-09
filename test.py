@@ -1,2 +1,2 @@
-print("hello github")
-print("수정 완료")
+print("hello")
+print("추가됨")
